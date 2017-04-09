@@ -1,0 +1,45 @@
+/*
+    Theme Name: Photogram
+    Author: Mike Baker
+    Author: URI https://bakerwebco.com
+    Description: Photo Gallery Theme
+    Version: 0.0.1
+*/
+
+body {
+	background: #333;
+	color: #fff;
+}
+a {
+	text-decoration: none;
+}
+li {
+	list-style: none;
+}
+input{
+	color: #333;
+}
+img {
+	width: 100%;
+}
+
+header input {
+	margin-top: 15px;
+}
+.post{
+	padding: 20px;
+}
+
+footer {
+	text-align: center;
+	margin-top; 40px;
+	border-top: #777 solid 1px;
+}
+.pic {
+	text-align: center;
+}
+
+.pic img {
+	width: 100%;
+	height: 100%;
+}
